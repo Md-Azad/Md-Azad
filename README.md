@@ -5,6 +5,19 @@
 ###
 
 <h1 align="center">Hello there... 👋 I'm Md Azad Hossain</h1>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Md-Azad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Md-Azad&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 ###
 
