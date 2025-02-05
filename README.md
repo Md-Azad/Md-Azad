@@ -19,13 +19,16 @@
   </a>
 </div>
 
+<br />
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm a full-stack web developer with JavaScript, React.js, and Next.js, and I use Express.js for the backend. Currently I am pursuing my master's degree in digital transformation at FH Dortmund. I am an expert in developing responsive and seamless web applications.<br><br><br>
+<p align="left">I'm a full-stack web developer with JavaScript, React.js, and Next.js, and I use Express.js for the backend. Currently I am pursuing my master's degree in digital transformation at FH Dortmund. I am an expert in developing responsive and seamless web applications.<br><br>
+  <br />
 
 ## :eyes: Current overview
 
@@ -70,9 +73,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-###
+<br />
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
@@ -93,12 +96,6 @@
 
 <br clear="both">
 
-<p align="left"></p>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
-###
