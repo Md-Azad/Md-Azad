@@ -21,17 +21,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  </h3>
 
 ###
 
-<p align="left">I'm a full-stack web developer with JavaScript, React.js, and Next.js, and I use Express.js for the backend. Currently, I am pursuing my master's degree in digital transformation at FH Dortmund. I am an expert in developing responsive and seamless web applications.<br><br><br>- 📚 I'm currently learning Prisma, Mongoose<br>- ⚡ In my free time I read tech blogs.</p>
+<p align="left">I'm a full-stack web developer with JavaScript, React.js, and Next.js, and I use Express.js for the backend. Currently I am pursuing my master's degree in digital transformation at FH Dortmund. I am an expert in developing responsive and seamless web applications.<br><br><br>
 
 ## :eyes: Current overview
-
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/Md-Azad/Md-Azad/blob/main/devcard.svg" width="200" alt="Azad's Dev Card"/></a>
-</div>
 
 ### 🔭 I’m working on my Personal E-commerce. 
 ### 🌱 I’m exploring - Prisma and Mongoose. 
