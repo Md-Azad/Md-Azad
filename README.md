@@ -27,7 +27,10 @@
 
 ###
 
-<p align="left">I'm a full-stack web developer with JavaScript, React.js, and Next.js, and I use Express.js for the backend. Currently I am pursuing my master's degree in digital transformation at FH Dortmund. I am an expert in developing responsive and seamless web applications.<br><br>
+<p align="left">Frontend developer transitioning into Linux System Administration and DevOps. Experienced in React and Next.js, with hands-on skills in RHEL, Ubuntu, networking, Ansible, Docker, and shell scripting. Currently preparing for the RHCSA certification and building practical infrastructure automation projects.
+
+M.Sc. Digital Transformation student at Dortmund University of Applied Sciences and Arts. B.Sc. in Computer Science and Engineering.
+<br><br>
   <br />
 
 ## :eyes: Current overview
