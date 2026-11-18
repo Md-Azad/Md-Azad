@@ -33,47 +33,67 @@ M.Sc. Digital Transformation student at Dortmund University of Applied Sciences 
 <br><br>
   <br />
 
-## :eyes: Current overview
+## 👀 Current Overview
 
-##  Building a Linux Infrastructure Automation project using Ansible, RHEL, Ubuntu, Rocky Linux, and AlmaLinux. 
-##  Linux System Administration, Ansible, Terraform, AWS, Docker, and CI/CD. 
-##  Linux Infrastructure, DevOps, Cloud Engineering, Automation, and High Availability Systems
-##  Open-source projects related to Linux, DevOps, and Infrastructure Automation. 
-##  I enjoy exploring new technologies, solving infrastructure problems, and learning how systems work behind the scenes.
-
+- 🔭 **Currently working on:** A Linux Infrastructure Automation project using Ansible, RHEL, Ubuntu, Rocky Linux, and AlmaLinux.
+- 🌱 **Currently learning:** Linux System Administration, Ansible, Terraform, AWS, Docker, and CI/CD.
+- 🛠️ **Interested in:** Linux Infrastructure, DevOps, Cloud Engineering, Automation, and High Availability Systems.
+- 👯 **Looking to collaborate on:** Open-source projects related to Linux, DevOps, and Infrastructure Automation.
+- ⚡ **Fun fact:** I enjoy exploring new technologies, solving infrastructure problems, and understanding how systems work behind the scenes.
 
 <br />
 
-###
+## 💻 Technologies & Tools
 
-## :computer: Technologies that I know
-
-###
+### Linux & Infrastructure
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="Red Hat" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
+ <img width="16" />
+</div>
+
+### Programming & Web Development
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
+</div>
+
+### Development Tools
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman" />
 </div>
 
 <br />
