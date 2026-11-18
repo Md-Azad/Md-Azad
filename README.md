@@ -35,11 +35,11 @@ M.Sc. Digital Transformation student at Dortmund University of Applied Sciences 
 
 ## :eyes: Current overview
 
-### 🔭 I’m working on my Personal E-commerce. 
-### 🌱 I’m exploring - Prisma and Mongoose. 
-### 👯 I’m looking - To collaborate on open-source projects. 
-### 🤔 I’m trying - To be more consistent. 
-### ⚡ Fun fact - I love to explore new technologies I can speak 5 languages.
+###  Building a Linux Infrastructure Automation project using Ansible, RHEL, Ubuntu, Rocky Linux, and AlmaLinux. 
+###  Linux System Administration, Ansible, Terraform, AWS, Docker, and CI/CD. 
+###  Linux Infrastructure, DevOps, Cloud Engineering, Automation, and High Availability Systems
+###  Open-source projects related to Linux, DevOps, and Infrastructure Automation. 
+###  I enjoy exploring new technologies, solving infrastructure problems, and learning how systems work behind the scenes.
 
 
 <br />
