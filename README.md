@@ -35,11 +35,11 @@ M.Sc. Digital Transformation student at Dortmund University of Applied Sciences 
 
 ## :eyes: Current overview
 
-###  Building a Linux Infrastructure Automation project using Ansible, RHEL, Ubuntu, Rocky Linux, and AlmaLinux. 
-###  Linux System Administration, Ansible, Terraform, AWS, Docker, and CI/CD. 
-###  Linux Infrastructure, DevOps, Cloud Engineering, Automation, and High Availability Systems
-###  Open-source projects related to Linux, DevOps, and Infrastructure Automation. 
-###  I enjoy exploring new technologies, solving infrastructure problems, and learning how systems work behind the scenes.
+##  Building a Linux Infrastructure Automation project using Ansible, RHEL, Ubuntu, Rocky Linux, and AlmaLinux. 
+##  Linux System Administration, Ansible, Terraform, AWS, Docker, and CI/CD. 
+##  Linux Infrastructure, DevOps, Cloud Engineering, Automation, and High Availability Systems
+##  Open-source projects related to Linux, DevOps, and Infrastructure Automation. 
+##  I enjoy exploring new technologies, solving infrastructure problems, and learning how systems work behind the scenes.
 
 
 <br />
